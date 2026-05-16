@@ -1,0 +1,1 @@
+Placeholder audio cue for distant-train. Replace with compressed web audio in production.

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#060b18"/>
+  <g fill="none" stroke="#72f7ff" stroke-opacity="0.45">
+    <rect x="40" y="40" width="560" height="280"/>
+    <rect x="80" y="90" width="120" height="190"/>
+    <rect x="250" y="90" width="120" height="190"/>
+    <rect x="420" y="90" width="120" height="190"/>
+    <path d="M40 300h160"/>
+  </g>
+  <text x="48" y="28" fill="#d8e2dc" font-family="monospace" font-size="16">STORE LAYOUT / PLACEHOLDER</text>
+</svg>
